@@ -1,0 +1,12 @@
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application.Contract\bin\Debug\net5.0\ClientManagement.Application.Contract.deps.json
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application.Contract\bin\Debug\net5.0\ClientManagement.Application.Contract.dll
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application.Contract\bin\Debug\net5.0\ClientManagement.Application.Contract.pdb
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application.Contract\obj\Debug\net5.0\ClientManagement.Application.Contract.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application.Contract\obj\Debug\net5.0\ClientManagement.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application.Contract\obj\Debug\net5.0\ClientManagement.Application.Contract.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application.Contract\obj\Debug\net5.0\ClientManagement.Application.Contract.AssemblyInfo.cs
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application.Contract\obj\Debug\net5.0\ClientManagement.Application.Contract.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application.Contract\obj\Debug\net5.0\ClientManagement.Application.Contract.dll
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application.Contract\obj\Debug\net5.0\refint\ClientManagement.Application.Contract.dll
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application.Contract\obj\Debug\net5.0\ClientManagement.Application.Contract.pdb
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application.Contract\obj\Debug\net5.0\ref\ClientManagement.Application.Contract.dll

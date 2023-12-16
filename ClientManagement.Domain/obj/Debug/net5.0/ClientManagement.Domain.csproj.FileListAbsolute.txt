@@ -1,0 +1,15 @@
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Domain\bin\Debug\net5.0\ClientManagement.Domain.deps.json
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Domain\bin\Debug\net5.0\ClientManagement.Domain.dll
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Domain\bin\Debug\net5.0\ClientManagement.Domain.pdb
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Domain\bin\Debug\net5.0\ClientManagement.Application.Contract.dll
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Domain\bin\Debug\net5.0\ClientManagement.Application.Contract.pdb
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Domain\obj\Debug\net5.0\ClientManagement.Domain.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Domain\obj\Debug\net5.0\ClientManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Domain\obj\Debug\net5.0\ClientManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Domain\obj\Debug\net5.0\ClientManagement.Domain.AssemblyInfo.cs
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Domain\obj\Debug\net5.0\ClientManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Domain\obj\Debug\net5.0\ClientManagement.Domain.csproj.CopyComplete
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Domain\obj\Debug\net5.0\ClientManagement.Domain.dll
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Domain\obj\Debug\net5.0\refint\ClientManagement.Domain.dll
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Domain\obj\Debug\net5.0\ClientManagement.Domain.pdb
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Domain\obj\Debug\net5.0\ref\ClientManagement.Domain.dll

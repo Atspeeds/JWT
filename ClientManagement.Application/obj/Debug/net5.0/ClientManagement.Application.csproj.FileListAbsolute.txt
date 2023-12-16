@@ -1,0 +1,12 @@
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application\bin\Debug\net5.0\ClientManagement.Application.deps.json
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application\bin\Debug\net5.0\ClientManagement.Application.dll
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application\bin\Debug\net5.0\ClientManagement.Application.pdb
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application\obj\Debug\net5.0\ClientManagement.Application.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application\obj\Debug\net5.0\ClientManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application\obj\Debug\net5.0\ClientManagement.Application.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application\obj\Debug\net5.0\ClientManagement.Application.AssemblyInfo.cs
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application\obj\Debug\net5.0\ClientManagement.Application.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application\obj\Debug\net5.0\ClientManagement.Application.dll
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application\obj\Debug\net5.0\refint\ClientManagement.Application.dll
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application\obj\Debug\net5.0\ClientManagement.Application.pdb
+C:\Users\A\source\repos\UniversityApp\ClientManagement.Application\obj\Debug\net5.0\ref\ClientManagement.Application.dll

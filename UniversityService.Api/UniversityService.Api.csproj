@@ -1,0 +1,28 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <UserSecretsId>335ac16c-f523-4ecb-a02b-10c4b2cef36a</UserSecretsId>
+    <PackageOutputPath>$(OutputPath)</PackageOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Versioning" Version="5.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ClientManagement.Domain\ClientManagement.Domain.csproj" />
+    <ProjectReference Include="..\ClientManagement.Infrastrure.Configuration\ClientManagement.Infrastrure.Configuration.csproj" />
+    <ProjectReference Include="..\ClientManagement.Infrastrure.EFCore\ClientManagement.Infrastrure.EFCore.csproj" />
+    <ProjectReference Include="..\UniversityManagement.Application.Conteract\UniversityManagement.Application.Conteract.csproj" />
+    <ProjectReference Include="..\UniversityManagement.Application\UniversityManagement.Application.csproj" />
+    <ProjectReference Include="..\UniVersityManagement.Infrastrure.Configuration\UniVersityManagement.Infrastrure.Configuration.csproj" />
+    <ProjectReference Include="..\UniversityManagement.Infrastrure\UniversityManagement.Infrastrure.csproj" />
+  </ItemGroup>
+
+</Project>

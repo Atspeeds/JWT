@@ -1,0 +1,12 @@
+C:\Users\A\source\repos\UniversityApp\FrameWorkUni\bin\Debug\net5.0\FrameWorkUni.deps.json
+C:\Users\A\source\repos\UniversityApp\FrameWorkUni\bin\Debug\net5.0\FrameWorkUni.dll
+C:\Users\A\source\repos\UniversityApp\FrameWorkUni\bin\Debug\net5.0\FrameWorkUni.pdb
+C:\Users\A\source\repos\UniversityApp\FrameWorkUni\obj\Debug\net5.0\FrameWorkUni.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\UniversityApp\FrameWorkUni\obj\Debug\net5.0\FrameWorkUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\UniversityApp\FrameWorkUni\obj\Debug\net5.0\FrameWorkUni.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\UniversityApp\FrameWorkUni\obj\Debug\net5.0\FrameWorkUni.AssemblyInfo.cs
+C:\Users\A\source\repos\UniversityApp\FrameWorkUni\obj\Debug\net5.0\FrameWorkUni.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\UniversityApp\FrameWorkUni\obj\Debug\net5.0\FrameWorkUni.dll
+C:\Users\A\source\repos\UniversityApp\FrameWorkUni\obj\Debug\net5.0\refint\FrameWorkUni.dll
+C:\Users\A\source\repos\UniversityApp\FrameWorkUni\obj\Debug\net5.0\FrameWorkUni.pdb
+C:\Users\A\source\repos\UniversityApp\FrameWorkUni\obj\Debug\net5.0\ref\FrameWorkUni.dll

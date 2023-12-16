@@ -1,0 +1,28 @@
+﻿@model List<StudentDto> 
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<table class="table table-dark">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">نام</th>
+            <th scope="col">نام پدر</th>
+            <th scope="col">کد ملی</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th scope="row">@item.Id</th>
+                <td>@item.Name</td>
+                <td>@item.FatherName</td>
+                <td>@item.NationalCode</td>
+            </tr>
+        }
+       
+       
+    </tbody>
+</table>

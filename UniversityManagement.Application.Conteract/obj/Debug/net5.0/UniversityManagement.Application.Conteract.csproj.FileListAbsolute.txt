@@ -1,0 +1,12 @@
+C:\Users\A\source\repos\UniversityApp\UniversityManagement.Application.Conteract\bin\Debug\net5.0\UniversityManagement.Application.Conteract.deps.json
+C:\Users\A\source\repos\UniversityApp\UniversityManagement.Application.Conteract\bin\Debug\net5.0\UniversityManagement.Application.Conteract.dll
+C:\Users\A\source\repos\UniversityApp\UniversityManagement.Application.Conteract\bin\Debug\net5.0\UniversityManagement.Application.Conteract.pdb
+C:\Users\A\source\repos\UniversityApp\UniversityManagement.Application.Conteract\obj\Debug\net5.0\UniversityManagement.Application.Conteract.csproj.AssemblyReference.cache
+C:\Users\A\source\repos\UniversityApp\UniversityManagement.Application.Conteract\obj\Debug\net5.0\UniversityManagement.Application.Conteract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A\source\repos\UniversityApp\UniversityManagement.Application.Conteract\obj\Debug\net5.0\UniversityManagement.Application.Conteract.AssemblyInfoInputs.cache
+C:\Users\A\source\repos\UniversityApp\UniversityManagement.Application.Conteract\obj\Debug\net5.0\UniversityManagement.Application.Conteract.AssemblyInfo.cs
+C:\Users\A\source\repos\UniversityApp\UniversityManagement.Application.Conteract\obj\Debug\net5.0\UniversityManagement.Application.Conteract.csproj.CoreCompileInputs.cache
+C:\Users\A\source\repos\UniversityApp\UniversityManagement.Application.Conteract\obj\Debug\net5.0\UniversityManagement.Application.Conteract.dll
+C:\Users\A\source\repos\UniversityApp\UniversityManagement.Application.Conteract\obj\Debug\net5.0\refint\UniversityManagement.Application.Conteract.dll
+C:\Users\A\source\repos\UniversityApp\UniversityManagement.Application.Conteract\obj\Debug\net5.0\UniversityManagement.Application.Conteract.pdb
+C:\Users\A\source\repos\UniversityApp\UniversityManagement.Application.Conteract\obj\Debug\net5.0\ref\UniversityManagement.Application.Conteract.dll
